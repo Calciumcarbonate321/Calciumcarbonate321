@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calciumcarbonate321&label=Profile%20views&color=0e75b6&style=flat" alt="calciumcarbonate321" /> </p>
 
-- 🔭 I’m currently working on **Builder Bot, a Discord bot made in rust**
+- 🔭 I’m currently working on **Builder Bot, a Discord bot made with discord.py**
 
 - 🌱 I’m currently learning **Typescript**
 
